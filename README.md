@@ -1,4 +1,8 @@
 # hello-world
-this will be a test of pullrequest
+this is my first repository on GitHub. I am happy to be here!
 
-Hi it is me, Iggy. I have no idea what I am doing but I will hope with time I will have a better understanding of this.
+I have still no idea, what I am doing, but I hope, that with time, I will improve on coding.
+Thanks for any support and understanding!
+
+lots of love,
+Iggy
